@@ -1,3 +1,4 @@
+
 # Rock Paper Scissors Game - React Native App
 
 This project is a simple Rock Paper Scissors game built with React Native. The game allows two players to select their choices and determines the winner based on classic Rock Paper Scissors rules. The app also features a countdown timer before each game round starts.
@@ -10,9 +11,9 @@ This project is a simple Rock Paper Scissors game built with React Native. The g
 - Displays the winner with respective color coding
 - Reset functionality to play again
 
-## Screenshots
+## Demo
 
-*Screenshots will be added here*
+![Demo](assets/recording.gif)
 
 ## Installation
 
@@ -21,13 +22,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/rps-game-react-native.git
+   git clone https://github.com/sabarikennady/rockpaperscissors.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd rps-game-react-native
+   cd rockpaperscissors
    ```
 
 3. **Install the dependencies:**
@@ -41,13 +42,13 @@ To get started with this project, follow these steps:
    For iOS:
 
    ```bash
-   npx react-native run-ios
+   yarn ios
    ```
 
    For Android:
 
    ```bash
-   npx react-native run-android
+   yarn android
    ```
 
 ## Usage
@@ -100,7 +101,3 @@ If you wish to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please contact me at [your-email@example.com](mailto:your-email@example.com).
